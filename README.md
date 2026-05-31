@@ -1,6 +1,6 @@
 # Home Depot Financial Modeling and Analysis
 Danayt Aman | 2025
-Home Depot.png
+!Home Depot.png
 A comprehensive financial and industry analysis of Home Depot to evaluate key growth drivers and forecast future performance
 Home Depot Financial Modeling & Analysis
 
